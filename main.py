@@ -1,6 +1,5 @@
 # TP : Recommandation syste, - collaborative filtering : top n
-__author__ = "Jean-Loui AHOUANSE, Norbert SOUWOUIN ans Osseni ASSAVIE"
-__email__ = "rob@spot.colorado.edu"
+__author__ = "Jean-Loui AHOUANSE, Norbert SOUWOUIN and Osseni ASSAVIE"
 __status__ = "Developpement"
 
 # Liens du dépots : https://github.com/JeanlouisAhs/recomandation-system.git
